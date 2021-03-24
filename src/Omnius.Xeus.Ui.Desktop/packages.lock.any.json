@@ -96,6 +96,15 @@
           "Avalonia": "0.10.0"
         }
       },
+      "Live.Avalonia": {
+        "type": "Direct",
+        "requested": "[1.2.1, )",
+        "resolved": "1.2.1",
+        "contentHash": "q2+3zILRUie3VShMJUA8gZdIRnspbcFsqikUu24XeSEXSRplnN3ZPg2oNhGe8JKJXZ+qJQj9kXJppEQaarwNLg==",
+        "dependencies": {
+          "Avalonia": "0.10.0"
+        }
+      },
       "Nito.AsyncEx": {
         "type": "Direct",
         "requested": "[5.1.0, )",
